@@ -1,0 +1,47 @@
+###Synechron Interview nodejs********************
+Event loop
+Function type
+Closure uses
+Prototying 
+Prototype types
+Callback hell
+Promise
+Map,filter, reduce
+Node post method authentication,
+Next middleware
+Req Form validation using next middleware
+JavaScript object declaration
+Esmas script  6 feature
+package.json
+varible of package.json
+dependencies vs devDependencies in package.json
+----------------
+Conole.log(1);
+SetTimeout(function (){
+Console.log(2)},1000);
+SetTimeout(function (){
+Console.log(3)},0);
+Console.log(4));
+-----------
+Var data=[1,2,3];
+data[6]=15;
+Console.log(data[10]);
+-----------
+Console.log(null==undefined);
+-----------------------------------------------
+##quick heal
+1. MapReduce
+2. OAuth vs OATH
+3. AWS
+4. mongo-aggrigation/pipes
+5. node vs php fast
+6. mongo vs mysql fast
+7. get specific character from string
+------------------------------------------------
+###Pubmatic
+Why Closure
+Incremeted counter when.we called function
+Protypel inheritances in detail
+Express
+Ojbect in Js
+About project
